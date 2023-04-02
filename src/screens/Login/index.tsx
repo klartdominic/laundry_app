@@ -1,10 +1,11 @@
 import React from 'react'
-import {Text, View} from 'native-base'
+import {Text} from 'native-base'
+import {Page} from '@src/components'
 
 export default function Login() {
   return (
-    <View>
+    <Page>
       <Text>test</Text>
-    </View>
+    </Page>
   )
 }
