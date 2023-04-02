@@ -5,7 +5,7 @@ import {Page} from '@src/components'
 export default function Login() {
   return (
     <Page>
-      <Text>test</Text>
+      <Text>test2</Text>
     </Page>
   )
 }

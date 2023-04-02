@@ -29,7 +29,7 @@ export default function RootNavigator() {
     >
       <Screen
         options={{
-          headerShown: true,
+          // headerShown: true,
           title: 'Login',
         }}
         component={Login}
